@@ -1,3 +1,5 @@
+<img src="https://api.visitorbadge.io/api/VisitorHit?user=bingyangchen&countColor=%234c8bf5" align="right" />
+
 Hi everyone 👋🏻 I'm a software engineer—a creature that turns coffee into code.
 
 Some people hit the gym to relieve stress—I refactor code. After all, my muscles won't grow, but my code can look a whole lot better.
