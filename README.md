@@ -12,7 +12,7 @@ Some people hit the gym to relieve stress—I refactor code. After all, my muscl
 
 I speak more programming languages than I do in social settings, and most of my communication at work happens through commit messages and code reviews.
 
-My goal is to write code that doesn’t need a README, and to come up with function names that still make sense to me three months later.
+My goal is to write code that doesn’t need a readme, and to come up with function names that still make sense to me three months later.
 
 Visit <https://byc1999.com> to learn more about me!
 
